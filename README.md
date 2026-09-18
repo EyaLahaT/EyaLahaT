@@ -1,8 +1,8 @@
 - @EyaLahaT
 - Israel & USA
 - CS Student @ CU Boulder
-- Python, Java, C++, SQL
-- OOP, TCP/IP
+- Python, Java, C/C++, JS, HTML
+- OOP, TCP/IP, Data Structures, Version Control
 
 <!---
 EyaLahaT/EyaLahaT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
